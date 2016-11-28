@@ -5,8 +5,14 @@ import java.util.Set;
 
 public class Tester {
 
-   int s = 0;
-   Suit.num2suit();
+
+
+   public static void main(String args[]){
+      Suit.num2suit(3);
+      Rank.num2rank(3);
+      System.out.println(Suit.suit + " " + Rank.rank);
+   }
+
 
 
 }

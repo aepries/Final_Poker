@@ -1,7 +1,10 @@
 
 public class Hand {
 
-    //ArrayList<String> h = new ArrayList<String>();
+
+    public ArrayList() cards = ;
+
+    ArrayList<String> h = new ArrayList<String>();
 
 
 
